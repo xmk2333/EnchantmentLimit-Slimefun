@@ -29,7 +29,7 @@ EnchantmentLimit-Slimefun 是一个为 Slimefun4 开发的附属插件，用于�
 # 功能设置
 settings:
   # 祛魔机处理模式
-  # strict: 严格模式 - 禁止放入超过限制的附魔物品
+  # strict: 严格模式 - 放入超过限制的附魔物品时失效
   # convert: 转换模式 - 自动将超限附魔降级到允许的最高等级
   mode: "convert"
 
