@@ -1,7 +1,6 @@
 # EnchantmentLimit-Slimefun
 
 ![Version](https://img.shields.io/github/v/release/xmk2333/EnchantmentLimit-Slimefun?include_prereleases)
-![License](https://img.shields.io/github/license/xmk2333/EnchantmentLimit-Slimefun)
 
 ## 📝 介绍
 
