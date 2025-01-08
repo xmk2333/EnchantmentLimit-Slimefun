@@ -1,0 +1,16 @@
+name: EnchantmentLimit-SlimeFun
+version: '${project.version}'
+main: me.baimo.enchantmentlimit.EnchantmentLimit
+api-version: '1.19'
+depend: [Slimefun]
+authors: [baimo]
+description: A plugin to limit enchantment levels in Slimefun's auto-disenchanter
+commands:
+  sfenchantmentlimit:
+    description: Main command for EnchantmentLimit-SlimeFun
+    usage: /<command> reload
+    permission: enchantmentlimitslimefun.reload
+permissions:
+  enchantmentlimitslimefun.reload:
+    description: Allows the player to reload the plugin configuration
+    default: op
