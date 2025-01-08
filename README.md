@@ -51,10 +51,12 @@ enchantments:
 - Slimefun4
 - Paper/Spigot 1.16+
 
-## 👥 支持
+## 加入我们的社区 💬
 
-- 插件交流群：528651839
-- Issues: [GitHub Issues](https://github.com/xmk2333/EnchantmentLimit-Slimefun/issues)
+如果你有任何问题或需要支持，请随时加入我们的社区！
+
+[![加入我们的QQ群](https://img.shields.io/badge/QQGroup-528651839-blue)](https://jq.qq.com/?_wv=1027&k=528651839)
+
 
 ## 📜 许可
 
